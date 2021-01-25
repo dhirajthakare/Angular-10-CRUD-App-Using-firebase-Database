@@ -1,27 +1,42 @@
-# Crudfirebase
+# Angular-10-CRUD-App-Using-firebase
+In That Repository You Will Learn How To We Can Make  A Angular 10 App With Fully CRUD( create read update delete ) Functionality Using Firebase Database  
+  
+# OutPut Will be Look like As Follows
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
+  
+![beforeinsert](https://user-images.githubusercontent.com/32159491/105683338-8bd8e280-5f19-11eb-942d-94c231604751.png)
+  
+  
+![firebasefirst](https://user-images.githubusercontent.com/32159491/105683321-87acc500-5f19-11eb-8513-156e21cfec2b.png)
+  
+    
+ ![beforelist](https://user-images.githubusercontent.com/32159491/105683341-8c717900-5f19-11eb-9740-6362dbdcf956.png)
 
-## Development server
+  
+ ![insert](https://user-images.githubusercontent.com/32159491/105683326-88ddf200-5f19-11eb-89dd-191e1b30e637.png)
+  
+    
+ ![ufterinsert](https://user-images.githubusercontent.com/32159491/105683327-89768880-5f19-11eb-8d91-2b52e20418ed.png)
+  
+    
+ ![afteinsetlist](https://user-images.githubusercontent.com/32159491/105683333-8aa7b580-5f19-11eb-8714-03746ca71589.png)
+  
+    
+ ![afterupdate1](https://user-images.githubusercontent.com/32159491/105683336-8b404c00-5f19-11eb-9024-88775d85ccbc.png)
+  
+    
+ ![afertupdatelist](https://user-images.githubusercontent.com/32159491/105683331-8aa7b580-5f19-11eb-95f5-bf408eeaebb5.png)
+  
+    
+ ![deletealert](https://user-images.githubusercontent.com/32159491/105683349-8da2a600-5f19-11eb-9cc3-97916ca98dd9.png)
+  
+    
+ ![datadelete](https://user-images.githubusercontent.com/32159491/105683344-8d0a0f80-5f19-11eb-85d6-dc09afa89a2a.png)
+  
+    
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+     
+       
+         
+# thank you..
+ 
